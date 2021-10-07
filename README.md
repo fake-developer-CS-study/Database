@@ -58,10 +58,10 @@
 
 ### 🗓️ 진행 상황
 
-|                            발표자                            | 발표 주제 | 발표 날짜 |
-| :----------------------------------------------------------: | :-------: | :-------: |
-| [![dev-splin](https://user-images.githubusercontent.com/79291114/122174982-3304e900-cebe-11eb-9a22-0fa57549dc56.jpg)](https://github.com/dev-splin) |           |           |
-| [![htcrefactor](https://user-images.githubusercontent.com/79291114/133890810-32050ede-2a54-4c40-ac92-72326c7906d0.jpg)](https://github.com/htcrefactor) |           |           |
-| [![dhdhdht](https://user-images.githubusercontent.com/79291114/133890809-9917f6a3-e3c7-47ca-8055-f95d3c6da0a8.png)](https://github.com/dhdhdht) |           |           |
-| [![imseongtae](https://user-images.githubusercontent.com/79291114/133890807-9fabfc66-1e9b-4159-b084-0c943ae61421.png)](https://github.com/imseongtae) |           |           |
+|                            발표자                            |                          발표 주제                           |    발표 날짜    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
+| [![dev-splin](https://user-images.githubusercontent.com/79291114/122174982-3304e900-cebe-11eb-9a22-0fa57549dc56.jpg)](https://github.com/dev-splin) | [[데이터베이스] Database](https://github.com/fake-developer-CS-study/Database/blob/main/database.md) | 2021.10.05 (화) |
+| [![htcrefactor](https://user-images.githubusercontent.com/79291114/133890810-32050ede-2a54-4c40-ac92-72326c7906d0.jpg)](https://github.com/htcrefactor) |                                                              |                 |
+| [![dhdhdht](https://user-images.githubusercontent.com/79291114/133890809-9917f6a3-e3c7-47ca-8055-f95d3c6da0a8.png)](https://github.com/dhdhdht) |                                                              |                 |
+| [![imseongtae](https://user-images.githubusercontent.com/79291114/133890807-9fabfc66-1e9b-4159-b084-0c943ae61421.png)](https://github.com/imseongtae) |                                                              |                 |
 
